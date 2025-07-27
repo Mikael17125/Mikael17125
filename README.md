@@ -1,11 +1,21 @@
-# Hi there! 👋
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCijp0J-kJMJfl-6ZCLKTuGQ)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nias-ananto/)
+# Hi there! 👋  
+I'm **Nias Ananto**, an Artificial Intelligence Researcher based in Seoul, Korea.
 
-I'm Nias Ananto, an Artificial Intelligence Researcher based in Seoul, Korea.
-📧 Reach me at: [xnias.ananto@gmail.com](mailto:xnias.ananto@gmail.com)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCijp0J-kJMJfl-6ZCLKTuGQ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nias-ananto/)
+[![Email](https://img.shields.io/badge/Email-xnias.ananto@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:xnias.ananto@gmail.com)
+[![Website](https://img.shields.io/badge/Website-Visit-green?style=for-the-badge&logo=githubpages&logoColor=white)](https://mikael17125.github.io)
 
-## Activity
+---
+
+## 🧠 About Me
+
+- 🔬 Artificial Intelligence researcher with a passion for Vision-Language Interfaces and Human-Computer Interaction.
+- 🏙️ Currently based in **Seoul, South Korea**.
+
+---
+
+## 📊 GitHub Activity
 
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -18,3 +28,4 @@ I'm Nias Ananto, an Artificial Intelligence Researcher based in Seoul, Korea.
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=mikael17125" alt="mikael17125" />
+
