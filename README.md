@@ -3,9 +3,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nias-ananto/)
 
 I'm Nias Ananto, an Artificial Intelligence Researcher based in Seoul, Korea.
-
-🔬 Currently working at the **Vision Language Intelligence Laboratory**.
-
 📧 Reach me at: [xnias.ananto@gmail.com](mailto:xnias.ananto@gmail.com)
 
 ## Activity
