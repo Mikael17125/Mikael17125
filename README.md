@@ -10,7 +10,7 @@ I'm **Nias Ananto**, an Artificial Intelligence Researcher based in Seoul, Korea
 
 ## 🧠 About Me
 
-- 🔬 Artificial Intelligence researcher.
+- 🔬 Artificial Intelligence Engineer.
 - 🏙️ Currently based in **Seoul, South Korea**.
 
 ---
